@@ -325,10 +325,7 @@ public class GamePanel extends JPanel {
 	}
 
 	/**
-	 * checks whether there's a line to erase, returns the line that should be
-	 * erased
-	 * 
-	 * @return -1 if none line has found
+	 * checks whether there's a line to erase and erases it
 	 */
 
 	public void checkToEraseLine() {
